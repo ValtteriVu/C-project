@@ -1,0 +1,6 @@
+Student: Emily Davis
+Subject                   Score   Grade
+Computer Architecture      40%     0
+Networks 101                0%     0
+C programming              80%     4
+Average Grade: 1.33
